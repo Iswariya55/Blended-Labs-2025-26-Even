@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: _ISHWARYA R_______________________________
+* **Register Number**: __212224220039___________________
+* **Date of Submission**: _01.03.2026_________________
 
 ---
 
@@ -96,13 +96,17 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+ Login to AWS Management Console and open the EC2 service.
+
+Launch a new EC2 instance by selecting an AMI and instance type.
+
+Create/select a key pair and configure security group settings.
+
+Connect to the EC2 instance using SSH or EC2 Instance Connect.
+
+Monitor and manage the instance (start, stop, reboot, terminate).
+
 
 ---
 
@@ -110,19 +114,22 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1265" height="570" alt="image" src="https://github.com/user-attachments/assets/01484415-cb4e-4813-a6aa-fc58582a6246" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1264" height="540" alt="image" src="https://github.com/user-attachments/assets/4f2c67de-032c-4554-880c-ac708c14f259" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1260" height="738" alt="image" src="https://github.com/user-attachments/assets/45738aa7-30fa-4285-847e-121b228a7bc7" />
+
 
 ---
 
