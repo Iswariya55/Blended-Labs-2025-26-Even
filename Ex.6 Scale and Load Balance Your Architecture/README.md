@@ -3,7 +3,7 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : ISHWARYA R  Reg no :212224220039    Date :18/3/2026
 
 ---
 
@@ -64,16 +64,10 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
-
-Describe step-by-step how you performed this experiment in your own words.
-
----
-
 ## Output Screenshots 
+<img width="1259" height="653" alt="Screenshot 2026-03-18 084116" src="https://github.com/user-attachments/assets/31cc8e1a-0c4d-4dda-9a2f-0631bc23fcec" />
 
-
----
+<img width="952" height="1019" alt="Screenshot 2026-03-18 095747" src="https://github.com/user-attachments/assets/87e4e6a9-801b-47b0-a88f-574167f6bdfc" />
 
 
 ## Result
